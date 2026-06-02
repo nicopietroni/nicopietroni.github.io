@@ -11,9 +11,10 @@ status:
 role: Full Professor, University of Technology Sydney
 email: nico.pietroni@uts.edu.au
 bio: |
-  Researcher in Computer Graphics and Geometry Processing.
-  My work spans mesh parametrization, surface abstraction and digital fabrication,
-  applied to entertainment, architectural geometry and art installations.
+  My primary research area is Computer Graphics and Geometry Processing, with a focus on developing 
+  concepts and practical algorithms for creating and manipulating digital shape representations. 
+  My work spans mesh parametrization, surface abstraction and global optimization, with applications 
+  in the entertainment industry, digital fabrication, and architectural geometry. 
 affiliations:
   - name: University of Technology Sydney
     url: https://www.uts.edu.au
@@ -29,22 +30,12 @@ interests:
   - Digital Fabrication
   - Architectural Geometry
   - Art Installations
-education:
-  - degree: PhD Computer Science
-    institution: University of Pisa
 experience:
   - role: Full Professor
     org: University of Technology Sydney
-    start: 2018-01-01
+    start: 2025-01-01
     summary: |
-      Research in geometry processing, mesh parametrization and digital fabrication.
-      Teaching Computer Animation and Computer Graphics.
+      Research in geometry processing, mesh parametrization, digital fabrication and art installations.
+      Teaching Computer Graphics and 3D Animation.
 skills: []
-languages:
-  - name: Italian
-    level: 5
-    label: Native
-  - name: English
-    level: 5
-    label: Fluent
 awards: []
