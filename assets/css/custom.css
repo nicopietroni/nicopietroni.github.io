@@ -1,5 +1,6 @@
 .prose, .prose-lg, .prose-xl {
   max-width: 900px !important;
+  text-align: justify !important;
 }
 
 article {
