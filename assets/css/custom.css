@@ -1,3 +1,11 @@
-.prose {
-  max-width: 900px !important;
+.prose, .prose-lg, .prose-xl {
+  max-width: 100% !important;
+}
+
+article {
+  max-width: 100% !important;
+}
+
+.max-w-prose {
+  max-width: 100% !important;
 }
