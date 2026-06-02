@@ -1,20 +1,13 @@
-# Navigation Links
-#   To link a homepage section, use a hash `#` followed by the section ID.
-#   The weight parameter defines the order that the links appear.
-
 main:
-  - name: Projects
-    url: /#projects
+  - name: About
+    url: /#about
     weight: 10
-  - name: Skills
-    url: /#skills
+  - name: Publications
+    url: /#publications
     weight: 20
-  - name: Experience
-    url: /#experience
+  - name: Artworks
+    url: /#artworks
     weight: 30
-  - name: Blog
-    url: /#blog
-    weight: 40
   - name: Contact
     url: /#contact
-    weight: 50
+    weight: 40
