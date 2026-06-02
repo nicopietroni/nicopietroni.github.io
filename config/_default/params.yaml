@@ -70,9 +70,9 @@ hugoblox:
     # Border radius: 'none', 'sm', 'md', 'lg', or 'full'
     radius: "md"
     # Spacing density: 'compact', 'comfortable', or 'spacious'
-    spacing: "comfortable"
+    spacing: "spacious"
     # Avatar shape in author profiles
-    avatar_shape: circle                # circle | square | rounded
+    avatar_shape: rounded               # circle | square | rounded
 
   # ────────────────────────────────────────────────────────────────────────────
   # HEADER
