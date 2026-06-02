@@ -1,251 +1,194 @@
 ---
-# Leave the homepage title empty to use the site title
 title: ''
 summary: ''
 date: 2026-01-05
 type: landing
 
 sections:
-  # Developer Hero - Gradient background with name, role, social, and CTAs
   - block: dev-hero
     id: hero
     content:
       username: me
-      greeting: "Hi, I'm"
-      show_status: true
+      greeting: ""
+      show_status: false
       show_scroll_indicator: true
       typewriter:
-        enable: true
-        prefix: "I build"
-        strings:
-          - "full-stack web apps"
-          - "scalable APIs"
-          - "beautiful UIs"
-          - "open source tools"
-        type_speed: 70
-        delete_speed: 40
-        pause_time: 2500
+        enable: false
       cta_buttons:
-        - text: View My Work
-          url: "#projects"
+        - text: Publications
+          url: "#publications"
           icon: arrow-down
-        - text: Get In Touch
+        - text: Artworks
+          url: "#artworks"
+          icon: arrow-down
+        - text: Contact
           url: "#contact"
           icon: envelope
     design:
       style: centered
       avatar_shape: circle
-      animations: true
+      animations: false
       background:
         color:
           light: "#fafafa"
           dark: "#0a0a0f"
       spacing:
         padding: ["6rem", "0", "4rem", "0"]
-  
-  # Filterable Portfolio - Alpine.js powered project filtering
-  - block: portfolio
-    id: projects
+
+  - block: markdown
+    id: about
     content:
-      title: "Featured Projects"
-      subtitle: "A selection of my recent work"
-      count: 0
-      filters:
-        folders:
-          - projects
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Full-Stack
-          tag: Full-Stack
-        - name: Frontend
-          tag: Frontend
-        - name: Backend
-          tag: Backend
-      default_button_index: 0
-      # Archive link auto-shown if more projects exist than 'count' above
-      # archive:
-      #   enable: false  # Set to false to explicitly hide
-      #   text: "Browse All"  # Customize text
-      #   link: "/work/"  # Custom URL
+      title: About
+      text: |
+        My primary research area is Computer Graphics and Geometry Processing, with a focus on developing concepts and practical algorithms for creating and manipulating digital shape representations. My work spans mesh parametrization, surface abstraction and global optimization, with applications in the entertainment industry, digital fabrication, and architectural geometry.
     design:
-      columns: 3
       background:
         color:
           light: "#ffffff"
           dark: "#0d0d12"
       spacing:
         padding: ["4rem", "0", "4rem", "0"]
-  
-  # Visual Tech Stack - Icons organized by category
-  - block: tech-stack
-    id: skills
+
+  - block: markdown
+    id: publications
     content:
-      title: "Tech Stack"
-      subtitle: "Technologies I use to build things"
-      categories:
-        - name: Languages
-          items:
-            - name: TypeScript
-              icon: devicon/typescript
-            - name: JavaScript
-              icon: devicon/javascript
-            - name: Python
-              icon: devicon/python
-            - name: Go
-              icon: devicon/go
-        - name: Frontend
-          items:
-            - name: React
-              icon: devicon/react
-            - name: Next.js
-              icon: devicon/nextjs
-            - name: Tailwind CSS
-              icon: devicon/tailwindcss
-            - name: Alpine.js
-              icon: devicon/alpinejs
-        - name: Backend
-          items:
-            - name: Node.js
-              icon: devicon/nodejs
-            - name: Express
-              icon: devicon/express
-            - name: PostgreSQL
-              icon: devicon/postgresql
-            - name: Redis
-              icon: devicon/redis
-        - name: DevOps
-          items:
-            - name: Docker
-              icon: devicon/docker
-            - name: AWS
-              icon: devicon/amazonwebservices
-            - name: GitHub Actions
-              icon: brands/github
-            - name: Vercel
-              icon: devicon/vercel
+      title: Publications
+      text: |
+        ### SIGGRAPH / ACM Transactions on Graphics
+
+        **Designing with Tension: Nearly-Developable Patch Layouts**
+        A Qi, A Eggler, N Pietroni, P Tang, M Piovarci, B Bickel — *Siggraph Asia 2025*
+
+        **Free-form Surface Approximation Using Rotational Patches**
+        Y Liu, YM Xie, TU Lee, Z Wang, N Pietroni — *ACM Transactions on Graphics 2025*
+
+        **Fabricable Discretized Ruled Surface**
+        A Bahrami, M Piovarci, M Tarini, B Bickel, N Pietroni — *Siggraph Asia 2025*
+
+        **Rags2Riches: Computational Garment Reuse**
+        A Qi, N Pietroni, M Korosteleva, O Sorkine-Hornung — *Siggraph 2025*
+
+        **SkinMixer: Blending 3D Animated Models**
+        S Nuvoli, N Pietroni, R Scateni, P Cignoni, M Tarini — *Siggraph Asia 2022*
+
+        **Hex-Mesh Generation and Processing: a Survey**
+        N Pietroni, M Campen, A Sheffer, G Cherchi, D Bommes et al. — *ACM TOG 2022*
+
+        **Computational Pattern Making from 3D Garment Models**
+        N Pietroni, C Dumery, R Guenot-Falque, M Liu, T Vidal-Calleja, O Sorkine-Hornung — *Siggraph 2022*
+
+        **Volume Decomposition for Two-Piece Rigid Casting**
+        T Alderighi, L Malomo, B Bickel, P Cignoni, N Pietroni — *Siggraph Asia 2021*
+
+        **Reliable Feature-Line Driven Quad-Remeshing**
+        N Pietroni, S Nuvoli, T Alderighi, P Cignoni, M Tarini — *Siggraph 2021*
+
+        **LoopyCuts: Practical Feature-Preserving Block Decomposition**
+        M Livesu*, N Pietroni*, E Puppo, A Sheffer, P Cignoni — *Siggraph 2020*
+
+        **Reinforcement of General Shell Structures**
+        FT Gil Ureta, N Pietroni, D Zorin — *ACM TOG 2020*
+
+        **QuadMixer: Layout Preserving Blending of Quadrilateral Meshes**
+        S Nuvoli, A Hernandez, C Esperanca, R Scateni, P Cignoni, N Pietroni — *Siggraph Asia 2019*
+
+        **Volume-Aware Design of Composite Molds**
+        T Alderighi, L Malomo, D Giorgi, B Bickel, P Cignoni, N Pietroni — *Siggraph 2019*
+
+        **FlexMaps: Computational Design of Flat Flexible Shells for Shaping 3D Objects**
+        L Malomo, J Pérez, E Iarussi, N Pietroni, E Miguel, P Cignoni, B Bickel — *Siggraph Asia 2018*
+
+        **Metamolds: Computational Design of Silicone Molds**
+        T Alderighi, L Malomo, D Giorgi, N Pietroni, B Bickel, P Cignoni — *Siggraph 2018*
+
+        **Position Based Tensegrity Design**
+        N Pietroni, M Tarini, A Vaxman, D Panozzo, P Cignoni — *Siggraph Asia 2017*
+
+        **FlexMolds: Automatic Design of Flexible Shells for Molding**
+        L Malomo, N Pietroni, B Bickel, P Cignoni — *Siggraph Asia 2016*
+
+        **Data-Driven Interactive Quadrangulation**
+        G Marcias, K Takayama, N Pietroni, D Panozzo, O Sorkine-Hornung, E Puppo, P Cignoni — *Siggraph 2015*
+
+        **Elastic Textures for Additive Fabrication**
+        J Panetta, Q Zhou, L Malomo, N Pietroni, P Cignoni, D Zorin — *Siggraph 2015*
+
+        **Robust Field-Aligned Global Parametrization**
+        A Myles, N Pietroni, D Zorin — *Siggraph 2014*
+
+        **Field-Aligned Mesh Joinery**
+        P Cignoni, N Pietroni, L Malomo, R Scopigno — *Siggraph Asia 2014*
+
+        **Simple Quad Domains for Field Aligned Mesh Parametrization**
+        M Tarini, E Puppo, D Panozzo, N Pietroni, P Cignoni — *Siggraph Asia 2011*
+
+        **Global Parametrization of Range Image Sets**
+        N Pietroni, M Tarini, O Sorkine, D Zorin — *Siggraph Asia 2011*
+
+        **Feature-Aligned T-Meshes**
+        A Myles, N Pietroni, D Kovacs, D Zorin — *Siggraph 2010*
+
+        ---
+
+        ### Other Journal Publications
+
+        **Digital Garment Alteration** — *Computer Graphics Forum, Pacific Graphics 2024*
+        **Bending the Light: Next Generation Anamorphic Sculptures** — *Computers & Graphics 2023*
+        **HexBox: Interactive Box Modeling of Hexahedral Meshes** — *CGF SGP 2023*
+        **State of the Art in Computational Mould Design** — *Computer Graphics Forum 2022*
+        **Automatic Surface Segmentation for Seamless Fabrication** — *Eurographics 2021*
+        **Automatic Design of Cable-Tensioned Glass Shells** — *Computer Graphics Forum 2020*
+        **HexaLab.net: An Online Viewer for Hexahedral Meshes** — *Computer-Aided Design 2019*
+        **State of the Art on Stylized Fabrication** — *Computer Graphics Forum 2018*
+        **Tracing Field-Coherent Quad Layouts** — *Pacific Graphics 2016*
+        **Statics Aware Grid Shells** — *Eurographics 2015*
+        **Quad-Mesh Generation and Processing: A Survey** — *Computer Graphics Forum 2013*
+        **Animation-Aware Quadrangulation** — *SGP 2013*
+        **Almost Isometric Mesh Parameterization Through Abstract Domains** — *IEEE TVCG 2010*
+
+        [Full list on Google Scholar](https://scholar.google.it/citations?user=BXxHVPkAAAAJ&hl=en)
     design:
-      style: grid
-      show_levels: false
       background:
         color:
           light: "#f5f5f5"
           dark: "#08080c"
       spacing:
         padding: ["4rem", "0", "4rem", "0"]
-  
-  # Experience Timeline
-  - block: resume-experience
-    id: experience
+
+  - block: markdown
+    id: artworks
     content:
-      title: Experience
-      date_format: Jan 2006
-      items:
-        - title: Senior Software Engineer
-          company: Tech Corp
-          company_url: ''
-          company_logo: ''
-          location: San Francisco, CA
-          date_start: '2023-01-01'
-          date_end: ''
-          description: |2-
-            * Lead development of microservices architecture serving 1M+ users
-            * Improved API response time by 40% through optimization
-            * Mentored team of 5 junior developers
-            * Tech stack: React, Node.js, PostgreSQL, AWS
-        - title: Full-Stack Developer
-          company: Startup Inc
-          company_url: ''
-          company_logo: ''
-          location: Remote
-          date_start: '2021-06-01'
-          date_end: '2022-12-31'
-          description: |2-
-            * Built and deployed 3 production applications from scratch
-            * Implemented CI/CD pipeline reducing deployment time by 60%
-            * Collaborated with design team on UI/UX improvements
-            * Tech stack: Next.js, Express, MongoDB, Docker
-        - title: Junior Developer
-          company: Web Agency
-          company_url: ''
-          company_logo: ''
-          location: New York, NY
-          date_start: '2020-01-01'
-          date_end: '2021-05-31'
-          description: |2-
-            * Developed client websites using modern web technologies
-            * Maintained and updated legacy codebases
-            * Participated in code reviews and agile ceremonies
-            * Tech stack: React, WordPress, PHP, MySQL
+      title: Artworks & Installations
+      text: |
+        My research has led to art installations and exhibitions combining geometry processing and art.
+
+        - **Galleria Gagliardi 2025** — *A Very Dutch Ghost*
+        - **Sydney Contemporary 2024** — Lennox St Gallery
+        - **North Sydney Art Prize 2024** — Finalist
+        - **Wynne Prize 2023** — Finalist, Art Gallery of New South Wales *(selected 40 out of ~800 submissions)*
+        - **Sydney Contemporary 2022** — Nanda/Hobbs Gallery
+        - **Fisher's Ghost Art Prize 2022** — Finalist
+        - **Venice Biennale of Architecture 2021** — *FlexMaps Pavilion*
+        - **Nerves of Steel 2017** — Permanent Sculpture, CNR of Italy
     design:
-      columns: '1'
       background:
         color:
           light: "#ffffff"
           dark: "#0d0d12"
       spacing:
         padding: ["4rem", "0", "4rem", "0"]
-  
-  # Recent Blog Posts
-  - block: collection
-    id: blog
-    content:
-      title: Recent Posts
-      subtitle: 'Thoughts on web development, tech, and more'
-      text: ''
-      filters:
-        folders:
-          - blog
-        exclude_featured: false
-      count: 3
-      order: desc
-    design:
-      view: card
-      columns: 3
-      background:
-        color:
-          light: "#f5f5f5"
-          dark: "#08080c"
-      spacing:
-        padding: ["4rem", "0", "4rem", "0"]
-  
-  # Contact Section
+
   - block: contact-info
     id: contact
     content:
-      title: Get In Touch
-      subtitle: "Let's build something amazing together"
-      text: |-
-        I'm always interested in hearing about new projects and opportunities.
-        Whether you're looking to hire, collaborate, or just want to say hi, feel free to reach out!
-      email: alex@example.com
+      title: Contact
+      text: |
+        Building 11, University of Technology Sydney
+        81 Broadway, Ultimo NSW 2007, Australia
+      email: nico.pietroni@uts.edu.au
       autolink: true
     design:
       columns: '1'
-      background:
-        color:
-          light: "#ffffff"
-          dark: "#0d0d12"
-      spacing:
-        padding: ["4rem", "0", "4rem", "0"]
-  
-  # CTA Card
-  - block: cta-card
-    content:
-      title: "Open to Opportunities"
-      text: |-
-        I'm currently looking for **senior engineering** or **tech lead** roles.
-        
-        Let's connect and discuss how I can help your team.
-      button:
-        text: 'Download Resume'
-        url: uploads/resume.pdf
-        new_tab: true
-    design:
-      card:
-        # Light mode: soft pastel theme gradient | Dark mode: rich deep gradient
-        css_class: 'bg-gradient-to-br from-primary-200 via-primary-100 to-secondary-200 dark:from-primary-600 dark:via-primary-700 dark:to-secondary-700'
-        text_color: dark
       background:
         color:
           light: "#f5f5f5"
