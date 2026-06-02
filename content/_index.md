@@ -26,7 +26,7 @@ sections:
           icon: envelope
     design:
       style: centered
-      avatar_shape: circle
+      avatar_shape: rounded
       animations: false
       background:
         color:
