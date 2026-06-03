@@ -74,7 +74,7 @@ sections:
         <details open>
         <summary><strong>Free-form Surface Approximation Using Rotational Patches</strong></summary>
         <div style="display:flex;gap:1rem;margin-top:0.5rem;align-items:flex-start;">
-        <img src="/publications/pub_free-form_surface_ap.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
+        <img src="/publications/pub_free_form_surface_ap.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
         <div>
         <em>ACM Transactions on Graphics, Volume 44, Issue 5</em><br>
         <span style="font-size:0.9em;color:#888;">Y Liu, YM Xie, TU Lee, Z Wang, N Pietroni</span><br>
