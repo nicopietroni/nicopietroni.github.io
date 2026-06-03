@@ -132,7 +132,7 @@ sections:
         <details open>
         <summary><strong>Hex-Mesh Generation and Processing: a Survey</strong></summary>
         <div style="display:flex;gap:1rem;margin-top:0.5rem;align-items:flex-start;">
-        <img src="/publications/pub_hex-mesh_generation_.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
+        <img src="/publications/pub_hex_mesh_generation_.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
         <div>
         <em>ACM Transactions on Graphics, Volume 42, Issue 2</em><br>
         <span style="font-size:0.9em;color:#888;">N Pietroni, M Campen, A Sheffer, G Cherchi, D Bommes, X Gao, R Scateni, F Ledoux, JF Remacle, M Livesu</span><br>
@@ -176,7 +176,7 @@ sections:
         <details open>
         <summary><strong>Reliable Feature-Line Driven Quad-Remeshing</strong></summary>
         <div style="display:flex;gap:1rem;margin-top:0.5rem;align-items:flex-start;">
-        <img src="/publications/pub_reliable_feature-lin.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
+        <img src="/publications/pub_reliable_feature_lin.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
         <div>
         <em>Siggraph 2021 — ACM Transactions on Graphics, Volume 40, Issue 4</em><br>
         <span style="font-size:0.9em;color:#888;">N Pietroni, S Nuvoli, T Alderighi, P Cignoni, M Tarini</span><br>
@@ -236,7 +236,7 @@ sections:
         <details open>
         <summary><strong>Volume-Aware Design of Composite Molds</strong></summary>
         <div style="display:flex;gap:1rem;margin-top:0.5rem;align-items:flex-start;">
-        <img src="/publications/pub_volume-aware_design_.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
+        <img src="/publications/pub_volume_aware_design_.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
         <div>
         <em>Siggraph 2019 — ACM Transactions on Graphics, Volume 38, Issue 4</em><br>
         <span style="font-size:0.9em;color:#888;">T Alderighi, L Malomo, D Giorgi, B Bickel, P Cignoni, N Pietroni</span><br>
@@ -314,7 +314,7 @@ sections:
         <details open>
         <summary><strong>Data-Driven Interactive Quadrangulation</strong></summary>
         <div style="display:flex;gap:1rem;margin-top:0.5rem;align-items:flex-start;">
-        <img src="/publications/pub_data-driven_interact.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
+        <img src="/publications/pub_data_driven_interact.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
         <div>
         <em>Siggraph 2015 — ACM Transactions on Graphics, Volume 34, Issue 65</em><br>
         <span style="font-size:0.9em;color:#888;">G Marcias, K Takayama, N Pietroni, D Panozzo, O Sorkine-Hornung, E Puppo, P Cignoni</span><br>
@@ -344,7 +344,7 @@ sections:
         <details open>
         <summary><strong>Robust Field-Aligned Global Parametrization</strong></summary>
         <div style="display:flex;gap:1rem;margin-top:0.5rem;align-items:flex-start;">
-        <img src="/publications/pub_robust_field-aligned.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
+        <img src="/publications/pub_robust_field_aligned.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
         <div>
         <em>Siggraph 2014 — ACM Transactions on Graphics, Volume 33, Issue 4</em><br>
         <span style="font-size:0.9em;color:#888;">A Myles, N Pietroni, D Zorin</span><br>
@@ -358,7 +358,7 @@ sections:
         <details open>
         <summary><strong>Field-Aligned Mesh Joinery</strong></summary>
         <div style="display:flex;gap:1rem;margin-top:0.5rem;align-items:flex-start;">
-        <img src="/publications/pub_field-aligned_mesh_j.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
+        <img src="/publications/pub_field_aligned_mesh_j.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
         <div>
         <em>Siggraph Asia 2014 — ACM Transactions on Graphics, Volume 33, Issue 1</em><br>
         <span style="font-size:0.9em;color:#888;">P Cignoni, N Pietroni, L Malomo, R Scopigno</span><br>
@@ -404,7 +404,7 @@ sections:
         <details open>
         <summary><strong>Feature-Aligned T-Meshes</strong></summary>
         <div style="display:flex;gap:1rem;margin-top:0.5rem;align-items:flex-start;">
-        <img src="/publications/pub_feature-aligned_t-me.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
+        <img src="/publications/pub_feature_aligned_t_me.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
         <div>
         <em>Siggraph 2010 — ACM Transactions on Graphics, Volume 29, Issue 4</em><br>
         <span style="font-size:0.9em;color:#888;">A Myles, N Pietroni, D Kovacs, D Zorin</span><br>
@@ -438,7 +438,7 @@ sections:
         <details open>
         <summary><strong>Bending-Reinforced Grid Shells for Free-form Architectural Surfaces</strong></summary>
         <div style="display:flex;gap:1rem;margin-top:0.5rem;align-items:flex-start;">
-        <img src="/publications/pub_bending-reinforced_g.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
+        <img src="/publications/pub_bending_reinforced_g.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
         <div>
         <em>Computer-Aided Design, Volume 168 — 2024</em><br>
         <span style="font-size:0.9em;color:#888;">F Laccone, N Pietroni, P Cignoni, L Malomo</span><br>
@@ -524,7 +524,7 @@ sections:
         <details open>
         <summary><strong>Physically-based Simulation of Elastic-Plastic Fusion of 3D Bioprinted Spheroids</strong></summary>
         <div style="display:flex;gap:1rem;margin-top:0.5rem;align-items:flex-start;">
-        <img src="/publications/pub_physically-based_sim.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
+        <img src="/publications/pub_physically_based_sim.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
         <div>
         <em>Biofabrication, Volume 15, Issue 4 — 2023</em><br>
         <span style="font-size:0.9em;color:#888;">H Bahrami, F Sichetti, E Puppo, L Vettori, C Liu, S Perry, C Gentile, N Pietroni</span><br>
@@ -628,7 +628,7 @@ sections:
         <details open>
         <summary><strong>Skeleton-Based Conditionally Independent Gaussian Process Implicit Surfaces</strong></summary>
         <div style="display:flex;gap:1rem;margin-top:0.5rem;align-items:flex-start;">
-        <img src="/publications/pub_skeleton-based_condi.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
+        <img src="/publications/pub_skeleton_based_condi.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
         <div>
         <em>IEEE Robotics and Automation Letters, Volume 5, Issue 2 — 2020</em><br>
         <span style="font-size:0.9em;color:#888;">L Wu, R Falque, V Perez-Puchalt, L Liu, N Pietroni, T Vidal-Calleja</span><br>
@@ -656,7 +656,7 @@ sections:
         <details open>
         <summary><strong>A Bending-Active Twisted-Arch Plywood Structure: The FlexMaps Pavilion</strong></summary>
         <div style="display:flex;gap:1rem;margin-top:0.5rem;align-items:flex-start;">
-        <img src="/publications/pub_a_bending-active_twi.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
+        <img src="/publications/pub_a_bending_active_twi.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
         <div>
         <em>SN Applied Sciences, Volume 2 — 2020</em><br>
         <span style="font-size:0.9em;color:#888;">F Laccone, L Malomo, J Pérez, N Pietroni, F Ponchio, B Bickel, P Cignoni</span><br>
@@ -720,7 +720,7 @@ sections:
         <details open>
         <summary><strong>Tracing Field-Coherent Quad Layouts</strong></summary>
         <div style="display:flex;gap:1rem;margin-top:0.5rem;align-items:flex-start;">
-        <img src="/publications/pub_tracing_field-cohere.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
+        <img src="/publications/pub_tracing_field_cohere.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
         <div>
         <em>Computer Graphics Forum, Pacific Graphics 2016</em><br>
         <span style="font-size:0.9em;color:#888;">N Pietroni, E Puppo, G Marcias, R Scopigno, P Cignoni</span><br>
