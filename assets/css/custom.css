@@ -10,3 +10,20 @@ article {
 .max-w-prose {
   max-width: 900px !important;
 }
+
+.prose, .prose-lg, .prose-xl {
+  max-width: 900px !important;
+  text-align: justify !important;
+}
+
+article {
+  max-width: 900px !important;
+}
+
+.max-w-prose {
+  max-width: 900px !important;
+}
+
+details div {
+  align-items: center !important;
+}
