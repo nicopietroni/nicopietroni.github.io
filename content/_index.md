@@ -998,7 +998,7 @@ sections:
         <details open>
         <summary><strong>FlexMaps Pavilion: A Twisted Arc Made of Mesostructured Flat Flexible Panels</strong></summary>
         <div style="display:flex;gap:1rem;margin-top:0.5rem;align-items:flex-start;">
-        <img src="/publications/pub_flexmaps_pavilion_a.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
+        <img src="/publications/pub_flexmaps_pavilion_a_.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
         <div>
         <em>IASS 2019: FORM and FORCE</em><br>
         <span style="font-size:0.9em;color:#888;">F Laccone, L Malomo, J Perez, N Pietroni, F Ponchio, B Bickel, P Cignoni</span><br>
