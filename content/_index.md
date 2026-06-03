@@ -66,8 +66,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">A Qi, A Eggler, N Pietroni, P Tang, M Piovarci, B Bickel</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -81,8 +80,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">Y Liu, YM Xie, TU Lee, Z Wang, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -96,8 +94,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">A Bahrami, M Piovarci, M Tarini, B Bickel, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -111,8 +108,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">A Qi, N Pietroni, M Korosteleva, O Sorkine-Hornung</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -128,8 +124,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">S Nuvoli, N Pietroni, R Scateni, P Cignoni, M Tarini</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -143,8 +138,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">N Pietroni, M Campen, A Sheffer, G Cherchi, D Bommes, X Gao, R Scateni, F Ledoux, JF Remacle, M Livesu</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -158,8 +152,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">N Pietroni, C Dumery, R Guenot-Falque, M Liu, T Vidal-Calleja, O Sorkine-Hornung</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -175,8 +168,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">T Alderighi, L Malomo, B Bickel, P Cignoni, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -190,8 +182,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">N Pietroni, S Nuvoli, T Alderighi, P Cignoni, M Tarini</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -207,8 +198,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">M Livesu*, N Pietroni*, E Puppo, A Sheffer, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -222,8 +212,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">FT Gil Ureta, N Pietroni, D Zorin</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -239,8 +228,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">S Nuvoli, A Hernandez, C Esperanca, R Scateni, P Cignoni, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -254,8 +242,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">T Alderighi, L Malomo, D Giorgi, B Bickel, P Cignoni, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -271,8 +258,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">L Malomo, J Pérez, E Iarussi, N Pietroni, E Miguel, P Cignoni, B Bickel</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -286,8 +272,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">T Alderighi, L Malomo, D Giorgi, N Pietroni, B Bickel, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -303,8 +288,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">N Pietroni, M Tarini, A Vaxman, D Panozzo, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -320,8 +304,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">L Malomo, N Pietroni, B Bickel, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -337,8 +320,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">G Marcias, K Takayama, N Pietroni, D Panozzo, O Sorkine-Hornung, E Puppo, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -352,8 +334,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">J Panetta, Q Zhou, L Malomo, N Pietroni, P Cignoni, D Zorin</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -369,8 +350,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">A Myles, N Pietroni, D Zorin</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -384,8 +364,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">P Cignoni, N Pietroni, L Malomo, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -401,8 +380,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">M Tarini, E Puppo, D Panozzo, N Pietroni, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -416,8 +394,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">N Pietroni, M Tarini, O Sorkine, D Zorin</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -433,8 +410,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">A Myles, N Pietroni, D Kovacs, D Zorin</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -454,8 +430,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">A Eggler, R Falque, M Liu, T Vidal-Calleja, O Sorkine-Hornung, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -469,8 +444,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">F Laccone, N Pietroni, P Cignoni, L Malomo</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -484,8 +458,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">G Isaac, P Nicholas, G Paul, N Pietroni, T Vidal Calleja, M Xie, T Schork</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -499,8 +472,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">Z Li, TU Lee, N Pietroni, R Snooks, YM Xie</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -514,8 +486,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">Y Liu, TU Lee, AR Javan, N Pietroni, YM Xie</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -531,8 +502,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">L Pratt, A Johnston, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -546,8 +516,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">F Zoccheddu, E Gobetti, M Livesu, N Pietroni, YM Xie</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -561,8 +530,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">H Bahrami, F Sichetti, E Puppo, L Vettori, C Liu, S Perry, C Gentile, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -576,8 +544,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">L Pratt, A Johnstone, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -591,8 +558,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">Y Liu, TU Lee, A Koronaki, N Pietroni, YM Xie</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -608,8 +574,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">T Alderighi, L Malomo, T Auzinger, B Bickel, P Cignoni, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -623,8 +588,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">F Laccone, L Malomo, M Callieri, T Alderighi, A Muntoni, F Ponchio, N Pietroni, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -640,8 +604,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">F Laccone, L Malomo, N Pietroni, P Cignoni, T Schork</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -655,8 +618,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">S Nuvoli, A Tola, A Muntoni, N Pietroni, E Gobbetti, R Scateni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -672,8 +634,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">L Wu, R Falque, V Perez-Puchalt, L Liu, N Pietroni, T Vidal-Calleja</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -687,8 +648,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">F Laccone, L Malomo, M Froli, P Cignoni, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -702,8 +662,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">F Laccone, L Malomo, J Pérez, N Pietroni, F Ponchio, B Bickel, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -719,8 +678,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">M Bracci, M Tarini, N Pietroni, M Livesu, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -736,8 +694,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">B Bickel, P Cignoni, L Malomo, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -753,8 +710,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">R Scopigno, P Cignoni, N Pietroni, M Callieri, M Dellepiane</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -770,8 +726,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">N Pietroni, E Puppo, G Marcias, R Scopigno, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -785,8 +740,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">D Tonelli, N Pietroni, E Puppo, M Froli, P Cignoni, G Amendola, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -802,8 +756,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">N Pietroni, D Tonelli, E Puppo, M Froli, R Scopigno, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -817,8 +770,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">R Aiello, F Banterle, N Pietroni, L Malomo, P Cignoni, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -834,8 +786,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">G Marcias, N Pietroni, D Panozzo, E Puppo, O Sorkine</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -849,8 +800,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">D Bommes, B Lévy, N Pietroni, E Puppo, C Silva, M Tarini, D Zorin</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -866,8 +816,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">N Pietroni, M Corsini, P Cignoni, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -881,8 +830,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">D Panozzo, E Puppo, M Tarini, N Pietroni, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -898,8 +846,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">N Pietroni, M Tarini, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -913,8 +860,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">M Tarini, N Pietroni, P Cignoni, D Panozzo, E Puppo</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -928,8 +874,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">D Bernabei, F Ganovelli, N Pietroni, P Cignoni, S Pattanaik, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -943,8 +888,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">N Pietroni, P Cignoni, MA Otaduy, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -960,8 +904,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">N Pietroni, F Ganovelli, P Cignoni, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -977,8 +920,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">M Dellepiane, N Pietroni, N Tsingos, M Asselot, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -994,8 +936,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">N Pietroni, MA Otaduy, B Bickel, F Ganovelli, MH Gross</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -1017,8 +958,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">F Laccone, N Pietroni, M Froli, P Cignoni, L Malomo</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -1032,8 +972,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">Y Fan, N Pietroni, S Ferguson</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -1049,8 +988,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">F Laccone, L Malomo, N Pietroni, M Froli, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -1066,8 +1004,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">F Laccone, L Malomo, J Perez, N Pietroni, F Ponchio, B Bickel, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -1081,8 +1018,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">F Laccone, L Malomo, M Froli, P Cignoni, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -1098,8 +1034,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">D Tonelli, N Pietroni, P Cignoni, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -1113,8 +1048,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">A Medeiros e Sá, K Rodriguez Echavarria, N Pietroni, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -1130,8 +1064,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">R Scopigno, P Cignoni, N Pietroni, M Callieri, M Dellepiane</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -1145,8 +1078,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">G Alemanno, P Cignoni, N Pietroni, F Ponchio, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -1162,8 +1094,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">G Palmas, N Pietroni, P Cignoni, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -1179,8 +1110,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">A Bozzo, D Panozzo, E Puppo, N Pietroni, L Rocca</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -1196,8 +1126,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">G Turini, N Pietroni, F Ganovelli, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -1211,8 +1140,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">B Kubiak, N Pietroni, F Ganovelli, M Fratarcangeli</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -1228,8 +1156,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">N Pietroni, A Giachetti, F Ganovelli</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -1247,8 +1174,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">P Cignoni, N Pietroni, L Malomo, B Bickel</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -1262,8 +1188,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">T Alderighi, P Cignoni, L Malomo, D Giorgi, B Bickel, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -1277,8 +1202,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">P Cignoni, N Pietroni, L Malomo, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" style="margin-right:0.8rem;">💻 Code</a>
-        <a href="#">🔗 Project Page</a>
+                <a href="#">🔗 Project Page</a>
         </span>
         </div>
         </div>
