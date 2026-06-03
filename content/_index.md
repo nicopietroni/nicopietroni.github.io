@@ -780,7 +780,7 @@ sections:
         <details open>
         <summary><strong>Animation-Aware Quadrangulation</strong></summary>
         <div style="display:flex;gap:1rem;margin-top:0.5rem;align-items:flex-start;">
-        <img src="/publications/pub_animation-aware_quad.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
+        <img src="/publications/pub_animation_aware_quad.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
         <div>
         <em>Computer Graphics Forum, SGP 2013</em><br>
         <span style="font-size:0.9em;color:#888;">G Marcias, N Pietroni, D Panozzo, E Puppo, O Sorkine</span><br>
@@ -794,7 +794,7 @@ sections:
         <details open>
         <summary><strong>Quad-Mesh Generation and Processing: A Survey</strong></summary>
         <div style="display:flex;gap:1rem;margin-top:0.5rem;align-items:flex-start;">
-        <img src="/publications/pub_quad-mesh_generation.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
+        <img src="/publications/pub_quad_mesh_generation.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
         <div>
         <em>Computer Graphics Forum — 2013</em><br>
         <span style="font-size:0.9em;color:#888;">D Bommes, B Lévy, N Pietroni, E Puppo, C Silva, M Tarini, D Zorin</span><br>
@@ -868,7 +868,7 @@ sections:
         <details open>
         <summary><strong>Real-time Single Scattering Inside Inhomogeneous Materials</strong></summary>
         <div style="display:flex;gap:1rem;margin-top:0.5rem;align-items:flex-start;">
-        <img src="/publications/pub_real-time_single_sca.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
+        <img src="/publications/pub_real_time_single_sca.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
         <div>
         <em>The Visual Computer, CGI 2010</em><br>
         <span style="font-size:0.9em;color:#888;">D Bernabei, F Ganovelli, N Pietroni, P Cignoni, S Pattanaik, R Scopigno</span><br>
@@ -882,7 +882,7 @@ sections:
         <details open>
         <summary><strong>Solid-Texture Synthesis: A Survey</strong></summary>
         <div style="display:flex;gap:1rem;margin-top:0.5rem;align-items:flex-start;">
-        <img src="/publications/pub_solid-texture_synthe.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
+        <img src="/publications/pub_solid_texture_synthe.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
         <div>
         <em>IEEE Computer Graphics and Applications, Volume 30, Issue 4 — 2010</em><br>
         <span style="font-size:0.9em;color:#888;">N Pietroni, P Cignoni, MA Otaduy, R Scopigno</span><br>
@@ -966,7 +966,7 @@ sections:
         <details open>
         <summary><strong>A Neural Network-based Low-cost Soft Sensor for Touch Recognition and Deformation Capture</strong></summary>
         <div style="display:flex;gap:1rem;margin-top:0.5rem;align-items:flex-start;">
-        <img src="/publications/pub_a_neural_network-bas.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
+        <img src="/publications/pub_a_neural_network_bas.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
         <div>
         <em>ACM Designing Interactive Systems — 2023</em><br>
         <span style="font-size:0.9em;color:#888;">Y Fan, N Pietroni, S Ferguson</span><br>
@@ -1012,7 +1012,7 @@ sections:
         <details open>
         <summary><strong>Concept and Cable-Tensioning Optimization of Post-Tensioned Shells Made of Structural Glass</strong></summary>
         <div style="display:flex;gap:1rem;margin-top:0.5rem;align-items:flex-start;">
-        <img src="/publications/pub_concept_and_cable-te.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
+        <img src="/publications/pub_concept_and_cable_te.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
         <div>
         <em>IASS 2019: FORM and FORCE</em><br>
         <span style="font-size:0.9em;color:#888;">F Laccone, L Malomo, M Froli, P Cignoni, N Pietroni</span><br>
@@ -1088,7 +1088,7 @@ sections:
         <details open>
         <summary><strong>A Computer-Assisted Constraint-Based System for Assembling Fragmented Objects</strong></summary>
         <div style="display:flex;gap:1rem;margin-top:0.5rem;align-items:flex-start;">
-        <img src="/publications/pub_a_computer-assisted_.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
+        <img src="/publications/pub_a_computer_assisted_.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
         <div>
         <em>IEEE Digital Heritage — 2013</em><br>
         <span style="font-size:0.9em;color:#888;">G Palmas, N Pietroni, P Cignoni, R Scopigno</span><br>
