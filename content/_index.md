@@ -18,6 +18,9 @@ sections:
         - text: Publications
           url: "#publications"
           icon: arrow-down
+        - text: Software
+          url: "#software"
+          icon: arrow-down
         - text: Artworks
           url: "#artworks"
           icon: arrow-down
@@ -1168,7 +1171,7 @@ sections:
         <details open>
         <summary><strong>Method for Computationally Designing a Re-usable Flexible Mold</strong></summary>
         <div style="display:flex;gap:1rem;margin-top:0.5rem;align-items:flex-start;">
-        <img src="/publications/pub_method_for_computati.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
+        <img src="/publications/pub_patent_flexmold_eu.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
         <div>
         <em>European Patent EP3301597B1</em><br>
         <span style="font-size:0.9em;color:#888;">P Cignoni, N Pietroni, L Malomo, B Bickel</span><br>
@@ -1182,7 +1185,7 @@ sections:
         <details open>
         <summary><strong>Method for Computationally Designing a Re-usable Flexible Mold for the Reproduction of an Object</strong></summary>
         <div style="display:flex;gap:1rem;margin-top:0.5rem;align-items:flex-start;">
-        <img src="/publications/pub_method_for_computati.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
+        <img src="/publications/pub_patent_flexmold_us.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
         <div>
         <em>US Patent US11966666B2</em><br>
         <span style="font-size:0.9em;color:#888;">T Alderighi, P Cignoni, L Malomo, D Giorgi, B Bickel, N Pietroni</span><br>
@@ -1196,7 +1199,7 @@ sections:
         <details open>
         <summary><strong>Mesh Joinery: Method for Converting a 3D Model into a Set of Planar Shapes</strong></summary>
         <div style="display:flex;gap:1rem;margin-top:0.5rem;align-items:flex-start;">
-        <img src="/publications/pub_mesh_joinery_method.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
+        <img src="/publications/pub_patent_mesh_joinery.jpg" onerror="this.src='https://placehold.co/120x80/444444/888888?text=img'" style="width:120px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0;">
         <div>
         <em>Italian Patent ITRM20130439A1 — 2013</em><br>
         <span style="font-size:0.9em;color:#888;">P Cignoni, N Pietroni, L Malomo, R Scopigno</span><br>
@@ -1207,6 +1210,71 @@ sections:
         </div>
         </div>
         </details>
+    design:
+      background:
+        color:
+          light: "#f5f5f5"
+          dark: "#08080c"
+      spacing:
+        padding: ["4rem", "0", "4rem", "0"]
+
+
+  - block: markdown
+    id: software
+    content:
+      title: Software
+      text: |
+        <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:2rem;margin-top:1rem;">
+
+        <div style="text-align:center;">
+        <a href="https://www.meshlab.net" target="_blank">
+        <img src="/publications/pub_software_meshlab.jpg" style="width:100%;height:200px;object-fit:cover;border-radius:8px;display:block;">
+        <p style="margin-top:0.5rem;font-weight:bold;font-size:1.1em;">MeshLab</p>
+        </a>
+        <p style="font-size:0.9em;color:#888;">Open source system for processing and editing 3D triangular meshes. Over 3 million downloads worldwide.</p>
+        </div>
+
+        <div style="text-align:center;">
+        <a href="https://www.hexalab.net" target="_blank">
+        <img src="/publications/pub_software_hexalab.jpg" style="width:100%;height:200px;object-fit:cover;border-radius:8px;display:block;">
+        <p style="margin-top:0.5rem;font-weight:bold;font-size:1.1em;">HexaLab</p>
+        </a>
+        <p style="font-size:0.9em;color:#888;">Online WebGL viewer for hexahedral meshes, used as standard tool in academia for volumetric mesh visualization.</p>
+        </div>
+
+        <div style="text-align:center;">
+        <a href="https://github.com/mlivesu/LoopyCuts" target="_blank">
+        <img src="/publications/pub_software_loopycuts.jpg" style="width:100%;height:200px;object-fit:cover;border-radius:8px;display:block;">
+        <p style="margin-top:0.5rem;font-weight:bold;font-size:1.1em;">LoopyCuts</p>
+        </a>
+        <p style="font-size:0.9em;color:#888;">Practical feature-preserving block decomposition for strongly hex-dominant meshing.</p>
+        </div>
+
+        <div style="text-align:center;">
+        <a href="https://www.nicopietroni.com/quadmixer" target="_blank">
+        <img src="/publications/pub_software_quadmixer.jpg" style="width:100%;height:200px;object-fit:cover;border-radius:8px;display:block;">
+        <p style="margin-top:0.5rem;font-weight:bold;font-size:1.1em;">QuadMixer</p>
+        </a>
+        <p style="font-size:0.9em;color:#888;">Layout preserving blending of quadrilateral meshes for 3D modelling and animation.</p>
+        </div>
+
+        <div style="text-align:center;">
+        <a href="https://github.com/nicopietroni/quadwild" target="_blank">
+        <img src="/publications/pub_software_quadwild.jpg" style="width:100%;height:200px;object-fit:cover;border-radius:8px;display:block;">
+        <p style="margin-top:0.5rem;font-weight:bold;font-size:1.1em;">QuadWild</p>
+        </a>
+        <p style="font-size:0.9em;color:#888;">Robust field-aligned global parametrization and quad mesh generation.</p>
+        </div>
+
+        <div style="text-align:center;">
+        <a href="https://www.nicopietroni.com/parafashion" target="_blank">
+        <img src="/publications/pub_software_parafashion.jpg" style="width:100%;height:200px;object-fit:cover;border-radius:8px;display:block;">
+        <p style="margin-top:0.5rem;font-weight:bold;font-size:1.1em;">Parafashion</p>
+        </a>
+        <p style="font-size:0.9em;color:#888;">Computational pattern making from 3D garment models for digital fashion design.</p>
+        </div>
+
+        </div>
     design:
       background:
         color:
