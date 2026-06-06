@@ -58,3 +58,5 @@ div.w-32.h-32 {
   width: 220px !important;
   height: 220px !important;
 }
+
+a[href*="hugoblox.com"] { display: none !important; }
