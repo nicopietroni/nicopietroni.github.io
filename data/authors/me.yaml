@@ -24,6 +24,10 @@ links:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/nicopietroni
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/nicopietroni
+  - icon: academicons/google-scholar
+    url: https://scholar.google.it/citations?user=BXxHVPkAAAAJ&hl=en
 interests:
   - Computer Graphics
   - Geometry Processing
