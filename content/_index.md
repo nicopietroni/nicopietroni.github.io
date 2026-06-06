@@ -1245,10 +1245,29 @@ sections:
       text: |
         My research has led to art installations and exhibitions combining geometry processing and art.
 
+        <div style="display:flex;gap:1rem;flex-wrap:nowrap;margin:1.5rem 0 1.5rem 0;">
+          <a href="https://www.louispratt.com/a-very-dutch-ghost" target="_blank" style="flex:1;min-width:0;">
+            <img src="/publications/art_dutch_ghost.jpg" alt="A Very Dutch Ghost" style="width:100%;height:180px;object-fit:cover;border-radius:8px;">
+            <div style="font-size:0.85em;margin-top:0.4rem;text-align:center;">A Very Dutch Ghost</div>
+          </a>
+          <a href="http://vcg.isti.cnr.it/activities/pavilion/#exibitions" target="_blank" style="flex:1;min-width:0;">
+            <img src="/publications/art_flexmaps_pavilion.jpg" alt="FlexMaps Pavilion" style="width:100%;height:180px;object-fit:cover;border-radius:8px;">
+            <div style="font-size:0.85em;margin-top:0.4rem;text-align:center;">FlexMaps Pavilion</div>
+          </a>
+          <div style="flex:1;min-width:0;">
+            <img src="/publications/art_tensegrity.jpg" alt="Tensegrity" style="width:100%;height:180px;object-fit:cover;border-radius:8px;">
+            <div style="font-size:0.85em;margin-top:0.4rem;text-align:center;">Nerves of Steel</div>
+          </div>
+          <div style="flex:1;min-width:0;">
+            <img src="/publications/art_flexmaps_wall.jpg" alt="FlexMaps Installation" style="width:100%;height:180px;object-fit:cover;border-radius:8px;">
+            <div style="font-size:0.85em;margin-top:0.4rem;text-align:center;">FlexMaps Installation</div>
+          </div>
+        </div>
+
         - **Galleria Gagliardi 2025** — *A Very Dutch Ghost*
         - **Sydney Contemporary 2024** — Lennox St Gallery
         - **North Sydney Art Prize 2024** — Finalist
-        - **Wynne Prize 2023** — Finalist, Art Gallery of New South Wales *(selected 40 out of ~800 submissions)*
+        - **Wynne Prize 2023** — Finalist, Art Gallery of New South Wales
         - **Sydney Contemporary 2022** — Nanda/Hobbs Gallery
         - **Fisher's Ghost Art Prize 2022** — Finalist
         - **Venice Biennale of Architecture 2021** — *FlexMaps Pavilion*
