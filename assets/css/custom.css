@@ -41,3 +41,9 @@ html {
   background-color: #ffffff !important;
   color: #000000 !important;
 }
+
+img[src*="/media/authors/"] {
+  width: 220px !important;
+  height: 220px !important;
+  max-width: 220px !important;
+}
