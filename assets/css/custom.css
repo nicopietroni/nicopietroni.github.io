@@ -47,3 +47,14 @@ img[src*="/media/authors/"] {
   height: 220px !important;
   max-width: 220px !important;
 }
+
+img[src*="/media/authors/"] {
+  width: 100% !important;
+  height: 100% !important;
+  max-width: unset !important;
+}
+
+div.w-32.h-32 {
+  width: 220px !important;
+  height: 220px !important;
+}
