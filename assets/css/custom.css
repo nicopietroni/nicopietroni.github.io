@@ -32,3 +32,12 @@ details div {
   width: 150px !important;
   height: 150px !important;
 }
+
+:root {
+  color-scheme: light !important;
+}
+
+html {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+}
