@@ -1227,19 +1227,19 @@ sections:
         <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:2rem;margin-top:1rem;">
 
         <div style="text-align:center;">
-        <a href="https://www.meshlab.net" target="_blank">
-        <img src="/publications/pub_software_meshlab.jpg" style="width:100%;height:200px;object-fit:cover;border-radius:8px;display:block;">
-        <p style="margin-top:0.5rem;font-weight:bold;font-size:1.1em;">MeshLab</p>
+        <a href="https://github.com/nicopietroni/quadwild" target="_blank">
+        <img src="/publications/pub_software_quadwild.jpg" style="width:100%;height:200px;object-fit:cover;border-radius:8px;display:block;">
+        <p style="margin-top:0.5rem;font-weight:bold;font-size:1.1em;">QuadWild</p>
         </a>
-        <p style="font-size:0.9em;color:#888;">Open source system for processing and editing 3D triangular meshes. Over 3 million downloads worldwide.</p>
+        <p style="font-size:0.9em;color:#888;">Robust field-aligned global parametrization and quad mesh generation.</p>
         </div>
 
         <div style="text-align:center;">
-        <a href="https://www.hexalab.net" target="_blank">
-        <img src="/publications/pub_software_hexalab.jpg" style="width:100%;height:200px;object-fit:cover;border-radius:8px;display:block;">
-        <p style="margin-top:0.5rem;font-weight:bold;font-size:1.1em;">HexaLab</p>
+        <a href="https://www.nicopietroni.com/parafashion" target="_blank">
+        <img src="/publications/pub_software_parafashion.jpg" style="width:100%;height:200px;object-fit:cover;border-radius:8px;display:block;">
+        <p style="margin-top:0.5rem;font-weight:bold;font-size:1.1em;">Parafashion</p>
         </a>
-        <p style="font-size:0.9em;color:#888;">Online WebGL viewer for hexahedral meshes, used as standard tool in academia for volumetric mesh visualization.</p>
+        <p style="font-size:0.9em;color:#888;">Computational pattern making from 3D garment models for digital fashion design.</p>
         </div>
 
         <div style="text-align:center;">
@@ -1259,19 +1259,19 @@ sections:
         </div>
 
         <div style="text-align:center;">
-        <a href="https://github.com/nicopietroni/quadwild" target="_blank">
-        <img src="/publications/pub_software_quadwild.jpg" style="width:100%;height:200px;object-fit:cover;border-radius:8px;display:block;">
-        <p style="margin-top:0.5rem;font-weight:bold;font-size:1.1em;">QuadWild</p>
+        <a href="https://www.hexalab.net" target="_blank">
+        <img src="/publications/pub_software_hexalab.jpg" style="width:100%;height:200px;object-fit:cover;border-radius:8px;display:block;">
+        <p style="margin-top:0.5rem;font-weight:bold;font-size:1.1em;">HexaLab</p>
         </a>
-        <p style="font-size:0.9em;color:#888;">Robust field-aligned global parametrization and quad mesh generation.</p>
+        <p style="font-size:0.9em;color:#888;">Online WebGL viewer for hexahedral meshes, used as standard tool in academia for volumetric mesh visualization.</p>
         </div>
 
         <div style="text-align:center;">
-        <a href="https://www.nicopietroni.com/parafashion" target="_blank">
-        <img src="/publications/pub_software_parafashion.jpg" style="width:100%;height:200px;object-fit:cover;border-radius:8px;display:block;">
-        <p style="margin-top:0.5rem;font-weight:bold;font-size:1.1em;">Parafashion</p>
+        <a href="https://www.meshlab.net" target="_blank">
+        <img src="/publications/pub_software_meshlab.jpg" style="width:100%;height:200px;object-fit:cover;border-radius:8px;display:block;">
+        <p style="margin-top:0.5rem;font-weight:bold;font-size:1.1em;">MeshLab</p>
         </a>
-        <p style="font-size:0.9em;color:#888;">Computational pattern making from 3D garment models for digital fashion design.</p>
+        <p style="font-size:0.9em;color:#888;">Open source system for processing and editing 3D triangular meshes. Over 3 million downloads worldwide.</p>
         </div>
 
         </div>
