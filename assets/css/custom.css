@@ -27,3 +27,8 @@ article {
 details div {
   align-items: center !important;
 }
+
+.avatar img, img[alt="avatar"] {
+  width: 150px !important;
+  height: 150px !important;
+}
