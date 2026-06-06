@@ -68,7 +68,7 @@ sections:
         <em>Siggraph Asia 2025 — ACM Transactions on Graphics</em><br>
         <span style="font-size:0.9em;color:#888;">A Qi, A Eggler, N Pietroni, P Tang, M Piovarci, B Bickel</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/designing_with_tensi_2025.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -82,7 +82,7 @@ sections:
         <em>ACM Transactions on Graphics, Volume 44, Issue 5</em><br>
         <span style="font-size:0.9em;color:#888;">Y Liu, YM Xie, TU Lee, Z Wang, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/free_form_surface_ap_2025.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -140,7 +140,7 @@ sections:
         <em>ACM Transactions on Graphics, Volume 42, Issue 2</em><br>
         <span style="font-size:0.9em;color:#888;">N Pietroni, M Campen, A Sheffer, G Cherchi, D Bommes, X Gao, R Scateni, F Ledoux, JF Remacle, M Livesu</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/hex_mesh_generation__2022.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -184,7 +184,7 @@ sections:
         <em>Siggraph 2021 — ACM Transactions on Graphics, Volume 40, Issue 4</em><br>
         <span style="font-size:0.9em;color:#888;">N Pietroni, S Nuvoli, T Alderighi, P Cignoni, M Tarini</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/reliable_feature_lin_2021.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -244,7 +244,7 @@ sections:
         <em>Siggraph 2019 — ACM Transactions on Graphics, Volume 38, Issue 4</em><br>
         <span style="font-size:0.9em;color:#888;">T Alderighi, L Malomo, D Giorgi, B Bickel, P Cignoni, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/volume_aware_design__2019.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -322,7 +322,7 @@ sections:
         <em>Siggraph 2015 — ACM Transactions on Graphics, Volume 34, Issue 65</em><br>
         <span style="font-size:0.9em;color:#888;">G Marcias, K Takayama, N Pietroni, D Panozzo, O Sorkine-Hornung, E Puppo, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/data_driven_interact_2015.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -352,7 +352,7 @@ sections:
         <em>Siggraph 2014 — ACM Transactions on Graphics, Volume 33, Issue 4</em><br>
         <span style="font-size:0.9em;color:#888;">A Myles, N Pietroni, D Zorin</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/robust_field_aligned_2014.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -366,7 +366,7 @@ sections:
         <em>Siggraph Asia 2014 — ACM Transactions on Graphics, Volume 33, Issue 1</em><br>
         <span style="font-size:0.9em;color:#888;">P Cignoni, N Pietroni, L Malomo, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/field_aligned_mesh_j_2014.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -412,7 +412,7 @@ sections:
         <em>Siggraph 2010 — ACM Transactions on Graphics, Volume 29, Issue 4</em><br>
         <span style="font-size:0.9em;color:#888;">A Myles, N Pietroni, D Kovacs, D Zorin</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/feature_aligned_t_me_2010.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -446,7 +446,7 @@ sections:
         <em>Computer-Aided Design, Volume 168 — 2024</em><br>
         <span style="font-size:0.9em;color:#888;">F Laccone, N Pietroni, P Cignoni, L Malomo</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/bending_reinforced_g_2024.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -460,7 +460,7 @@ sections:
         <em>Sustainable Engineering: Concepts and Practices — 2024</em><br>
         <span style="font-size:0.9em;color:#888;">G Isaac, P Nicholas, G Paul, N Pietroni, T Vidal Calleja, M Xie, T Schork</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/automated_shotcrete_2024.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -474,7 +474,7 @@ sections:
         <em>Structures, Volume 59 — 2024</em><br>
         <span style="font-size:0.9em;color:#888;">Z Li, TU Lee, N Pietroni, R Snooks, YM Xie</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/design_and_construct_2024.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -488,7 +488,7 @@ sections:
         <em>Computer-Aided Design, Volume 166 — 2024</em><br>
         <span style="font-size:0.9em;color:#888;">Y Liu, TU Lee, AR Javan, N Pietroni, YM Xie</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/reducing_the_number__2024.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -518,7 +518,7 @@ sections:
         <em>Computer Graphics Forum, SGP 2023</em><br>
         <span style="font-size:0.9em;color:#888;">F Zoccheddu, E Gobetti, M Livesu, N Pietroni, YM Xie</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/hexbox_interactive__2023.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -532,7 +532,7 @@ sections:
         <em>Biofabrication, Volume 15, Issue 4 — 2023</em><br>
         <span style="font-size:0.9em;color:#888;">H Bahrami, F Sichetti, E Puppo, L Vettori, C Liu, S Perry, C Gentile, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/physically_based_sim_2023.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -546,7 +546,7 @@ sections:
         <em>MIT Leonardo, 56(6) — 2023</em><br>
         <span style="font-size:0.9em;color:#888;">L Pratt, A Johnstone, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/reflections_on_light_2023.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -560,7 +560,7 @@ sections:
         <em>Engineering Structures, Volume 284 — 2023</em><br>
         <span style="font-size:0.9em;color:#888;">Y Liu, TU Lee, A Koronaki, N Pietroni, YM Xie</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/reducing_the_number__2023.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -576,7 +576,7 @@ sections:
         <em>Computer Graphics Forum, Volume 41, Issue 6 — 2022</em><br>
         <span style="font-size:0.9em;color:#888;">T Alderighi, L Malomo, T Auzinger, B Bickel, P Cignoni, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/state_of_the_art_in__2022.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -590,7 +590,7 @@ sections:
         <em>Journal of the IASS, Volume 63, Issue 2 — 2022</em><br>
         <span style="font-size:0.9em;color:#888;">F Laccone, L Malomo, M Callieri, T Alderighi, A Muntoni, F Ponchio, N Pietroni, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/design_and_construct_2022.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -606,7 +606,7 @@ sections:
         <em>Structures, Volume 34 — 2021</em><br>
         <span style="font-size:0.9em;color:#888;">F Laccone, L Malomo, N Pietroni, P Cignoni, T Schork</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/integrated_computati_2021.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -636,7 +636,7 @@ sections:
         <em>IEEE Robotics and Automation Letters, Volume 5, Issue 2 — 2020</em><br>
         <span style="font-size:0.9em;color:#888;">L Wu, R Falque, V Perez-Puchalt, L Liu, N Pietroni, T Vidal-Calleja</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/skeleton_based_condi_2020.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -650,7 +650,7 @@ sections:
         <em>Computer Graphics Forum, Volume 39, Issue 1 — 2020</em><br>
         <span style="font-size:0.9em;color:#888;">F Laccone, L Malomo, M Froli, P Cignoni, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/automatic_design_of__2020.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -664,7 +664,7 @@ sections:
         <em>SN Applied Sciences, Volume 2 — 2020</em><br>
         <span style="font-size:0.9em;color:#888;">F Laccone, L Malomo, J Pérez, N Pietroni, F Ponchio, B Bickel, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/a_bending_active_twi_2020.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -680,7 +680,7 @@ sections:
         <em>Computer-Aided Design, Volume 110 — 2019</em><br>
         <span style="font-size:0.9em;color:#888;">M Bracci, M Tarini, N Pietroni, M Livesu, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/hexalab.net_an_onli_2019.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
                 <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -696,7 +696,7 @@ sections:
         <em>Computer Graphics Forum, Volume 37, Issue 6 — 2018</em><br>
         <span style="font-size:0.9em;color:#888;">B Bickel, P Cignoni, L Malomo, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/state_of_the_art_on__2018.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -712,7 +712,7 @@ sections:
         <em>Computer Graphics Forum, Volume 36, Issue 1 — 2017</em><br>
         <span style="font-size:0.9em;color:#888;">R Scopigno, P Cignoni, N Pietroni, M Callieri, M Dellepiane</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/digital_fabrication__2017.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -728,7 +728,7 @@ sections:
         <em>Computer Graphics Forum, Pacific Graphics 2016</em><br>
         <span style="font-size:0.9em;color:#888;">N Pietroni, E Puppo, G Marcias, R Scopigno, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/tracing_field_cohere_2016.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -742,7 +742,7 @@ sections:
         <em>Engineering Structures, Volume 116 — 2016</em><br>
         <span style="font-size:0.9em;color:#888;">D Tonelli, N Pietroni, E Puppo, M Froli, P Cignoni, G Amendola, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/stability_of_statics_2016.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -772,7 +772,7 @@ sections:
         <em>Lecture Notes in Computer Science, Volume 9279 — 2015</em><br>
         <span style="font-size:0.9em;color:#888;">R Aiello, F Banterle, N Pietroni, L Malomo, P Cignoni, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/compression_and_quer_2015.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -788,7 +788,7 @@ sections:
         <em>Computer Graphics Forum, SGP 2013</em><br>
         <span style="font-size:0.9em;color:#888;">G Marcias, N Pietroni, D Panozzo, E Puppo, O Sorkine</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/animation_aware_quad_2013.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -802,7 +802,7 @@ sections:
         <em>Computer Graphics Forum — 2013</em><br>
         <span style="font-size:0.9em;color:#888;">D Bommes, B Lévy, N Pietroni, E Puppo, C Silva, M Tarini, D Zorin</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/quad_mesh_generation_2013.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -848,7 +848,7 @@ sections:
         <em>IEEE Transactions on Visualization and Computer Graphics, Volume 16, Issue 4 — 2010</em><br>
         <span style="font-size:0.9em;color:#888;">N Pietroni, M Tarini, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/almost_isometric_mes_2010.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -862,7 +862,7 @@ sections:
         <em>Computer Graphics Forum, Eurographics 2010</em><br>
         <span style="font-size:0.9em;color:#888;">M Tarini, N Pietroni, P Cignoni, D Panozzo, E Puppo</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/practical_quad_mesh__2010.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -876,7 +876,7 @@ sections:
         <em>The Visual Computer, CGI 2010</em><br>
         <span style="font-size:0.9em;color:#888;">D Bernabei, F Ganovelli, N Pietroni, P Cignoni, S Pattanaik, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/real_time_single_sca_2010.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -890,7 +890,7 @@ sections:
         <em>IEEE Computer Graphics and Applications, Volume 30, Issue 4 — 2010</em><br>
         <span style="font-size:0.9em;color:#888;">N Pietroni, P Cignoni, MA Otaduy, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/solid_texture_synthe_2010.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -906,7 +906,7 @@ sections:
         <em>The Visual Computer, Volume 25, Issue 3 — 2009</em><br>
         <span style="font-size:0.9em;color:#888;">N Pietroni, F Ganovelli, P Cignoni, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/splitting_cubes_a_f_2009.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -922,7 +922,7 @@ sections:
         <em>Computer Graphics Forum, Pacific Graphics 2008</em><br>
         <span style="font-size:0.9em;color:#888;">M Dellepiane, N Pietroni, N Tsingos, M Asselot, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/reconstructing_head__2008.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -938,7 +938,7 @@ sections:
         <em>Computer Graphics Forum, Eurographics 2007</em><br>
         <span style="font-size:0.9em;color:#888;">N Pietroni, MA Otaduy, B Bickel, F Ganovelli, MH Gross</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/texturing_internal_s_2007.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -960,7 +960,7 @@ sections:
         <em>Italian Workshop on Shell and Spatial Structures — 2023</em><br>
         <span style="font-size:0.9em;color:#888;">F Laccone, N Pietroni, M Froli, P Cignoni, L Malomo</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/pub_statics_and_stabilit_2023.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -974,7 +974,7 @@ sections:
         <em>ACM Designing Interactive Systems — 2023</em><br>
         <span style="font-size:0.9em;color:#888;">Y Fan, N Pietroni, S Ferguson</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/pub_a_neural_network_bas_2023.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -990,7 +990,7 @@ sections:
         <em>Challenging Glass Conference — 2020</em><br>
         <span style="font-size:0.9em;color:#888;">F Laccone, L Malomo, N Pietroni, M Froli, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/pub_automated_design_and_2020.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -1006,7 +1006,7 @@ sections:
         <em>IASS 2019: FORM and FORCE</em><br>
         <span style="font-size:0.9em;color:#888;">F Laccone, L Malomo, J Perez, N Pietroni, F Ponchio, B Bickel, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/pub_flexmaps_pavilion_a__2019.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -1020,7 +1020,7 @@ sections:
         <em>IASS 2019: FORM and FORCE</em><br>
         <span style="font-size:0.9em;color:#888;">F Laccone, L Malomo, M Froli, P Cignoni, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/pub_concept_and_cable_te_2019.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -1036,7 +1036,7 @@ sections:
         <em>STAG: Smart Tools and Apps for Graphics — 2016</em><br>
         <span style="font-size:0.9em;color:#888;">D Tonelli, N Pietroni, P Cignoni, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/pub_design_and_fabricati_2016.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -1050,7 +1050,7 @@ sections:
         <em>Eurographics Workshop on Graphics for Digital Fabrication — 2016</em><br>
         <span style="font-size:0.9em;color:#888;">A Medeiros e Sá, K Rodriguez Echavarria, N Pietroni, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/state_of_the_art_on__2016.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -1066,7 +1066,7 @@ sections:
         <em>Eurographics Workshops on Graphics and Cultural Heritage — 2014</em><br>
         <span style="font-size:0.9em;color:#888;">R Scopigno, P Cignoni, N Pietroni, M Callieri, M Dellepiane</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/pub_digital_fabrication__2014.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -1080,7 +1080,7 @@ sections:
         <em>Eurographics Workshops on Graphics and Cultural Heritage — 2014</em><br>
         <span style="font-size:0.9em;color:#888;">G Alemanno, P Cignoni, N Pietroni, F Ponchio, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/pub_interlocking_pieces__2014.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -1096,7 +1096,7 @@ sections:
         <em>IEEE Digital Heritage — 2013</em><br>
         <span style="font-size:0.9em;color:#888;">G Palmas, N Pietroni, P Cignoni, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/pub_a_computer_assisted__2013.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -1112,7 +1112,7 @@ sections:
         <em>Eurographics Italian Chapter — 2010</em><br>
         <span style="font-size:0.9em;color:#888;">A Bozzo, D Panozzo, E Puppo, N Pietroni, L Rocca</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/pub_adaptive_quad_mesh_s_2010.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -1128,7 +1128,7 @@ sections:
         <em>Eurographics Italian Chapter — 2007</em><br>
         <span style="font-size:0.9em;color:#888;">G Turini, N Pietroni, F Ganovelli, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/pub_techniques_for_compu_2007.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -1142,7 +1142,7 @@ sections:
         <em>ACM VRST 2007</em><br>
         <span style="font-size:0.9em;color:#888;">B Kubiak, N Pietroni, F Ganovelli, M Fratarcangeli</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/pub_a_robust_method_for__2007.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -1158,7 +1158,7 @@ sections:
         <em>VRIPHYS 2005</em><br>
         <span style="font-size:0.9em;color:#888;">N Pietroni, A Giachetti, F Ganovelli</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/pub_robust_segmentation__2005.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -1176,7 +1176,7 @@ sections:
         <em>European Patent EP3301597B1</em><br>
         <span style="font-size:0.9em;color:#888;">P Cignoni, N Pietroni, L Malomo, B Bickel</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/pub_patent_flexmold_eu.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -1190,7 +1190,7 @@ sections:
         <em>US Patent US11966666B2</em><br>
         <span style="font-size:0.9em;color:#888;">T Alderighi, P Cignoni, L Malomo, D Giorgi, B Bickel, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/pub_patent_flexmold_us.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
@@ -1204,7 +1204,7 @@ sections:
         <em>Italian Patent ITRM20130439A1 — 2013</em><br>
         <span style="font-size:0.9em;color:#888;">P Cignoni, N Pietroni, L Malomo, R Scopigno</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
-        <a href="#" style="margin-right:0.8rem;">📄 PDF</a>
+        <a href="/publications/pub_patent_mesh_joinery.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
         <a href="#">🔗 Project Page</a>
         </span>
         </div>
