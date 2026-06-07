@@ -16,7 +16,7 @@ type: page
 
 **[Stefano Nuvoli](https://github.com/stefanonuvoli)**, **[Nico Pietroni](https://nicopietroni.github.io)**, **[Riccardo Scateni](https://www.unica.it/unica/page/it/riccardo_scateni)**, **[Paolo Cignoni](http://vcg.isti.cnr.it/~cignoni/)**, **[Marco Tarini](https://tarini.di.unimi.it)**
 
-<img src="https://static.wixstatic.com/media/ed9796_46c3a841630947389b7d139cfc3c8293~mv2.png" style="width:100%;max-width:700px;border-radius:8px;margin:1.5rem 0;">
+<img src="/publications/skinmixer_2.avif" style="width:100%;max-width:700px;border-radius:8px;margin:1.5rem 0;">
 
 ## Mix and Match Animated Models
 
@@ -26,7 +26,7 @@ Skinmixer is a novel technique to compose new 3D animated models, such as videog
 
 Our method enables content creators to reuse valuable, carefully designed assets by assembling new ready-to-use characters while preserving most of the hand-crafted subtleties of models authored by digital artists. Skinmixer allows for drastically cutting the time needed to obtain the final result.
 
-<img src="https://static.wixstatic.com/media/ed9796_ddcd1cced6a14012af0a9b21978b9e79~mv2.png" style="width:100%;max-width:700px;border-radius:8px;margin:1.5rem 0;">
+<img src="/publications/skinmixer_1.avif" style="width:100%;max-width:700px;border-radius:8px;margin:1.5rem 0;">
 
 <div style="display:flex;flex-direction:column;gap:1.5rem;margin:2rem 0;">
   <iframe width="700" height="394" src="https://www.youtube.com/embed/XcLR5R8nLAg" frameborder="0" allowfullscreen style="max-width:100%;border-radius:8px;"></iframe>
