@@ -28,6 +28,9 @@ links:
     url: https://www.linkedin.com/in/nicopietroni
   - icon: academicons/google-scholar
     url: https://scholar.google.it/citations?user=BXxHVPkAAAAJ&hl=en
+  - icon: document
+    url: /CV.pdf
+    label: Download CV
 interests:
   - Computer Graphics
   - Geometry Processing
