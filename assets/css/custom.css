@@ -58,3 +58,9 @@ div.w-32.h-32 {
   width: 220px !important;
   height: 220px !important;
 }
+
+img[src*="/publications/pub_"] {
+  width: 200px !important;
+  height: 130px !important;
+  min-width: 200px !important;
+}
