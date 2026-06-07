@@ -125,7 +125,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">S Nuvoli, N Pietroni, R Scateni, P Cignoni, M Tarini</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="/publications/skinmixer_blending__2022.pdf" target="_blank" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="https://www.nicopietroni.com/skinmixer" target="_blank">🔗 Project Page</a>
+        <a href="/skinmixer/" target="_blank">🔗 Project Page</a>
         </span>
         </div>
         </div>
