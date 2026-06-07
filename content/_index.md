@@ -182,7 +182,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">N Pietroni, S Nuvoli, T Alderighi, P Cignoni, M Tarini</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="/publications/reliable_feature_lin_2021.pdf" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="https://github.com/nicopietroni/quadwild" target="_blank">🔗 Project Page</a>
+        <a href="https://www.quadmesh.cloud/" target="_blank">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -198,7 +198,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">M Livesu*, N Pietroni*, E Puppo, A Sheffer, P Cignoni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="/publications/loopycuts_practical_2020.pdf" target="_blank" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="https://github.com/mlivesu/LoopyCuts" target="_blank">🔗 Project Page</a>
+        <a href="/loopycuts/" target="_blank">🔗 Project Page</a>
         </span>
         </div>
         </div>
