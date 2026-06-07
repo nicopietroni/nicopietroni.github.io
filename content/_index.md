@@ -496,7 +496,6 @@ sections:
         <span style="font-size:0.9em;color:#888;">L Pratt, A Johnston, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="/publications/bending_the_light_n_2023.pdf" target="_blank" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="#" target="_blank">🔗 Project Page</a>
         </span>
         </div>
         </div>
@@ -1190,7 +1189,7 @@ sections:
         </div>
 
         <div style="text-align:center;">
-        <a href="/parafashion/" target="_blank">
+        <a href="https://github.com/nicopietroni/parafashion" target="_blank">
         <img src="/publications/pub_software_parafashion.jpg" style="width:100%;height:200px;object-fit:cover;border-radius:8px;display:block;">
         <p style="margin-top:0.5rem;font-weight:bold;font-size:1.1em;">Parafashion</p>
         </a>
