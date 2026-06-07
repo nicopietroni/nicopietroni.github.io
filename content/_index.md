@@ -227,7 +227,7 @@ sections:
         <span style="font-size:0.9em;color:#888;">S Nuvoli, A Hernandez, C Esperanca, R Scateni, P Cignoni, N Pietroni</span><br>
         <span style="margin-top:0.4rem;display:inline-block;">
         <a href="/publications/quadmixer_layout_pr_2019.pdf" target="_blank" target="_blank" style="margin-right:0.8rem;">📄 PDF</a>
-        <a href="https://github.com/stefanonuvoli/quadmixer" target="_blank">🔗 Project Page</a>
+        <a href="/quadmixer/" target="_blank">🔗 Project Page</a>
         </span>
         </div>
         </div>
